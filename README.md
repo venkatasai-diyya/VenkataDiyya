@@ -196,7 +196,7 @@ Stay tuned!
 I'm actively looking for **Senior Data Engineer** and **ML/AI Engineer** opportunities across the US. Open to full-time roles and interesting collaborations.
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/venkata2898/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
@@ -217,5 +217,3 @@ I'm actively looking for **Senior Data Engineer** and **ML/AI Engineer** opportu
   <i>Thanks for stopping by — let's build something great together 🚀</i><br/>
   <i>© 2026 Venkata Diyya · Plano, TX</i>
 </p>
-
-
