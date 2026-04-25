@@ -126,7 +126,7 @@ End-to-end streaming pipeline — **Pub/Sub → Apache Beam (Dataflow) → BigQu
 
 `Apache Beam` `Dataflow` `BigQuery` `Pub/Sub` `Cloud Composer` `Terraform` `Python`
 
-[View Repo →](https://github.com/YOUR_USERNAME/gcp-realtime-pipeline)
+[View Repo →](https://github.com/venkatasai-diyya/gcp-realtime-pipeline)
 
 </td>
 <td width="50%" valign="top">
@@ -136,7 +136,7 @@ LLM-powered Q&A over custom knowledge bases. Embeddings via **text-embedding-005
 
 `Vertex AI` `Gemini` `BigQuery` `FastAPI` `Cloud Run` `Terraform` `Python`
 
-[View Repo →](https://github.com/YOUR_USERNAME/rag-vertex-bigquery)
+[View Repo →](https://github.com/venkatasai-diyya/rag-vertex-bigquery)
 
 </td>
 </tr>
@@ -148,7 +148,7 @@ AI agent that auto-analyses Cloud Composer DAG failures using **Gemini**, genera
 
 `Gemini` `Cloud Functions` `Cloud Logging` `Pub/Sub` `Secret Manager` `ServiceNow API`
 
-[View Repo →](https://github.com/YOUR_USERNAME/dag-rca-agent)
+[View Repo →](https://github.com/venkatasai-diyya/dag-rca-agent)
 
 </td>
 <td width="50%" valign="top">
@@ -204,7 +204,7 @@ I'm actively looking for **Senior Data Engineer** and **ML/AI Engineer** opportu
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://www.linkedin.com/in/venkata2898/">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
@@ -217,3 +217,5 @@ I'm actively looking for **Senior Data Engineer** and **ML/AI Engineer** opportu
   <i>Thanks for stopping by — let's build something great together 🚀</i><br/>
   <i>© 2026 Venkata Diyya · Plano, TX</i>
 </p>
+
+
