@@ -1,5 +1,7 @@
-<h1 align="center">Hi, I'm Venkata Diyya 👋</h1>
-<h3 align="center">AI/ML Data Engineer · 5+ Years · Plano, TX</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Hi%2C+I'm+Venkata+Diyya+%F0%9F%91%8B;Data+Engineer;Cloud+%7C+AI+%26+ML+Enthusiast;Happy+to+Collaborate+and+Grow+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+<h3 align="center">Data Engineer - AI & ML | 5+ Years | Dallas, TX</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/GCP_Professional-Data_Engineer-4285F4?style=flat&logo=google-cloud&logoColor=white" />
@@ -13,7 +15,7 @@
 ```python
 const engineer = {
     name          : "Venkata Diyya",
-    location      : "Plano, TX",
+    location      : "Dallas, TX",
     role          : "AI/ML Data Engineer",
     experience    : "5+ years · Telecom · Healthcare · Finance · Insurance",
     currently     : "Sr. Data Engineer @ HCL Technologies",
@@ -35,7 +37,7 @@ I'm an AI/ML Data Engineer with **5+ years** of experience designing and deliver
 - ⚡ Reduced pipeline execution time from **6 hrs → 3.2 hrs** by optimizing BigQuery SQL with partitioning, clustering, and parallel Dataflow processing
 - 📉 Improved overall pipeline efficiency by **42.5%** by rewriting Teradata BTEQ scripts in BigQuery SQL using partitioning, clustering, and CTEs — cutting runtime from 4 hrs to 2.4 hrs
 - 🏭 Delivered data solutions across **Verizon (Telecom)**, **HCL (Healthcare/Enterprise)**, **Wipro (Multi-industry)**, and **Itus Insurance (Finance)**
-- 🤖 Currently building RAG pipelines, AI agents, and real-time ML systems on GCP
+- 🤖 Currently building RAG pipelines, AI agents, and real-time ML systems on AWS and GCP 
 
 <br/>
 
@@ -215,5 +217,5 @@ I'm actively looking for **Senior Data Engineer** and **ML/AI Engineer** opportu
 
 <p align="center">
   <i>Thanks for stopping by — let's build something great together 🚀</i><br/>
-  <i>© 2026 Venkata Diyya · Plano, TX</i>
+  <i>© 2026 Venkata Diyya · Dallas, TX</i>
 </p>
